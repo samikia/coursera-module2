@@ -227,6 +227,10 @@ h3.menu-item-title {
   font-size: .9em;
   font-style: italic;
 }
+#specials-tile {
+  background: url('../images/specials-tile.jpg') no-repeat;
+  background-position: center;
+}
 /* END SINGLE CATEGORY PAGE */
 
 
